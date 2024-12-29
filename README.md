@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
-![ED lab manual EX 3 3 Drawing V2 _page-0001](https://github.com/user-attachments/assets/77841db1-d03d-454b-aaff-dc2757bda07d)
+
+![ED lab manual Ex 5 2 Drawing_page-0001](https://github.com/user-attachments/assets/e1c77d0a-8479-4ced-bd4b-e65f2a3b6a8a)
 
 
 ## RESULT:
